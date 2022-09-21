@@ -10,7 +10,7 @@
   },
   "author": "mikhama",
   "license": "MIT",
-  "devDependencies": {
+  "dependencies": {
     "json-server": "^0.16.3"
   }
 }
